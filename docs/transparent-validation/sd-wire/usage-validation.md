@@ -20,7 +20,7 @@ To prepare the environment reproduce the following steps:
     Ubuntu/Debian:
 
     ```bash
-    sudo apt-get install libftdi1-dev libpopt-dev cmake
+    sudo apt-get install libftdi1-dev libpopt-dev cmake pkg-config
     ```
 
     Fedora/Red Hat:
